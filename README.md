@@ -421,9 +421,9 @@ export default MeetingCard;
 
 </details>
 
-## <a name="links">🔗 Links</a>
+<!-- ## <a name="links">🔗 Links</a>
 
-Public assets used in the project can be found [here](https://drive.google.com/file/d/1ofTpWii_sCIdJ14uQ431xWVXpYgjtQ8Q/view?usp=sharing)
+Public assets used in the project can be found [here](https://drive.google.com/file/d/1ofTpWii_sCIdJ14uQ431xWVXpYgjtQ8Q/view?usp=sharing) -->
 
 <!-- ## <a name="more">🚀 More</a>
 
